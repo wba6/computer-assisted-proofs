@@ -40,13 +40,13 @@ header-includes:
 
 **Introduction**
 
-Mathematics is often seen as the language that describes the universe. At its core, mathematics relies on proofs to confirm that ideas and theorems are true. Over time, the way we create these proofs has changed a lot. This paper looks into computer-assisted proofs, exploring how they started, why they're important, and the debates about whether they're as valid as traditional proofs.
+Mathematics is often seen as a way to describe the universe. At its core, mathematics uses proofs to show that ideas and theorems are true. So these ideas can be further iterated upon. Over time, the way we create these proofs has changed a lot. This paper looks into computer-assisted proofs, exploring how they started, why they're important, and the debates about whether they're as valid as traditional proofs.
 
- **Background on Mathematical Proofs**
+**Background on Mathematical Proofs**
 
-Mathematical proofs are essential because they show that a statement or theorem is always true. Traditionally, mathematicians create proofs by carefully reasoning through each step, starting from basic principles and building up to the final conclusion. This process ensures that every part of the proof is logically sound and understandable.
+Mathematical proofs are important because they show that a statement or theorem is **always** true. Historically, mathematicians create proofs by carefully reasoning through each step, starting from basic already proven principles and building to their final conclusion. This process helps show that every part of the proof is logically sound.
 
-Proofs do more than just confirm that something is true; they help mathematicians understand why it's true. By working through proofs, mathematicians can discover new connections and deepen their knowledge of mathematical concepts. The beauty of traditional proofs lies in their clarity and the way they reveal the underlying structure of mathematics.
+However, proofs do more than just confirm that something is true; they help others understand why it's true. By working through proofs, mathematicians can explore new ideas and deepen their knowledge of math. Many consider the beauty of traditional proofs to lie in their clarity and the fact that they reveal the underlying structure of the math they consist of.
 
 **Emergence of Computer-Assisted Proofs**
 
