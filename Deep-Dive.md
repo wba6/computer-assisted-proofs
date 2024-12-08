@@ -34,11 +34,6 @@ header-includes:
     \makeatother
 ---
 
-# Computer Assisted Proofs
-
----
-
-**I. Introduction**
 
 # Computer Assisted Proofs
 
