@@ -50,11 +50,11 @@ However, proofs do more than just confirm that something is true; they help othe
 
 **Emergence of Computer-Assisted Proofs**
 
-With the rise of computers, mathematicians began using them to help with proofs. Computer-assisted proofs use software and algorithms to handle complex calculations and check many different cases that would be too time-consuming to do by hand. This combination of human thinking and machine efficiency allows mathematicians to tackle problems that were previously out of reach.
+As computers grew more popular though the 1900s mathematicians began using them to help with proofs. Computer-assisted proofs use algorithms to handle complex calculation and check many different cases that would be too time-consuming for any human to do by hand. The combination of the human mind and machine efficiency allows mathematicians to tackle problems that were previously out of reach due their size and complexity.
 
-The idea of using computers in proofs started around the mid-20th century as computers became more powerful. Early uses involved simple calculations, but as technology advanced, so did the methods for creating proofs. Now, there are specialized programs and proof assistants that can not only verify proofs but also help construct them with minimal human input.
+The idea of using computers to help with proofs started around the mid-20th century as computers became more powerful and efficient. At first computers where only used for simple calculations, but as technology advanced, so did the methods for utilizing computers in proofs. Now, there are specialized programs and proof assistants that can verify proofs and also help construct them with very minimal human input.
 
-Computer-assisted proofs have led to some major breakthroughs in mathematics, solving long-standing problems and classifying complex mathematical structures. These achievements show how powerful computational tools can be in advancing mathematical knowledge, challenging the traditional ways of creating proofs.
+Computer-assisted proofs have led to some significant leaps in mathematics, solving many long-standing problems. These achievements show how powerful computational tools can be in advancing mathematical knowledge, challenging the traditional ways of creating proofs.
 
 **Understanding Computer-Assisted Proofs**
 
