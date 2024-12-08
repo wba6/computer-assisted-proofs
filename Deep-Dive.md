@@ -114,7 +114,6 @@ The Four Color Theorem has influenced the world of graph theory, some examples a
 3. Practical Applications:
 	 -  It helped practical problems involving graph coloring such as map creation, register allocation in compilers, and frequency assignment in telecommunications.
 
-
   - **B. The Kepler Conjecture**
     - Statement of the conjecture regarding sphere packing.
     - Description of Thomas Hales' computer-assisted proof.
