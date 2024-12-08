@@ -144,11 +144,6 @@ To help verify every aspect of this proof, Hales launched the Flyspeck Project t
 - The proof became a benchmark for computer-assisted proofs for longstanding mathematical problems.
 - Many advancements were made in areas like automated theorem proving, discrete geometry and optimization, and mathematical philosophy.
 
-
-
-
-
-
   - **C. The Classification of Finite Simple Groups**
     - Explanation of the classification theorem.
     - Extent of computer assistance in handling extensive case analyses.
