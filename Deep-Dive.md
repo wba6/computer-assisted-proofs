@@ -89,14 +89,16 @@ Computer assistance is especially beneficial in situations where the proof requi
   - **A. The Four Color Theorem**: The Four Color Theorem states that any planar map can be colored using at most four colors such that no two adjacent regions share the same color. In this case, adjacent refers to two regions sharing a boundary segment, not just a point.
     This 
 
-##### The Four Color Theorem
+#### The Four Color Theorem
 
 **Overview**
+
 The Four Color Theorem states that any planar map can be colored using at most four colors such that no two adjacent regions share the same color. In this case, adjacent refers to two regions sharing a boundary segment, not just a point.
 
 This theorem was conjectured in 1852 by Francis Guthrie while trying to color a map of England. The theorem applies to abstract planar graphs and is a foundational result in graph theory.
 
 **Role of Computer Assistance in the Proof**
+
 Due to the difficulty of the Four Color Theorem to prove, many false starts and partial results came as a result. This theorem was proved in 1976 and was a one of a kind proof as it relied on computer assistance.
 
 The key contributors in this proof were Kenneth Appel and Wolfgang Haken. whom were mathematicians at University of Illinois. They reduced the problem to only needing to check 1,936 "reducible configurations," cases.
@@ -104,6 +106,7 @@ The key contributors in this proof were Kenneth Appel and Wolfgang Haken. whom w
 The role of computers in this proof came when Appel and Haken needed to verify the reducibility of all 1,936 cases. This marked one of the first significant uses of computers to solve a mathematical theorem, sparking debates about the validity and nature of proofs. Due to the heavy reliance on computers, this raised concerns about trustworthiness since no human could feasibly verify all the computational steps by hand. 
 
 **Impact on Graph Theory and Mathematics**
+
 The Four Color Theorem has influenced the world of graph theory, some examples are:
 1. Graph Coloring Problems:
 	-  Deepened the study of graph coloring, with applications in scheduling, network design, and optimization
@@ -118,7 +121,35 @@ The Four Color Theorem has influenced the world of graph theory, some examples a
   - **B. The Kepler Conjecture**
     - Statement of the conjecture regarding sphere packing.
     - Description of Thomas Hales' computer-assisted proof.
-    - Verification and subsequent developments.
+    - Verification and subsequent developments. 
+
+#### The Kepler Conjecture
+
+**Overview**
+The Kepler Conjecture assets that the most efficient way to pack identical spheres in three-dimensional space is in a face-centered cubic (FCC) or hexagonal close-packing (HCP) arrangement. These arrangements fill approximately 74.05% of the volume of space.
+
+This conjecture was proposed by Johannes Kepler in 1611. It remained unproven for nearly four centuries and is a important result in the study of sphere packing.
+
+**Role of Computer Assistance in the Proof**
+In 1998, the proof was done by Thomas Hales and his graduate student Samuel Ferguson. The proof combined traditional mathematical reasoning alongside computer-assisted verification.
+
+Hales and Ferguson were able to reduce the problem to an enormously large, but finite, number of specific cases by analyzing local sphere configurations. Additionally, they computed and verified complex inequalities related to the density of sphere arrangements. Manual verification is the traditional way of verification but it was infeasible in this case, so many software tools and algorithms were used for computations and verification.
+
+The proof of the Kepler Conjecture consisted of over 250 pages of mathematical arguments and 3 gigabytes of computer-generated data. This makes this proof one of the most complex proofs ever done. 
+
+As a result of this proof, skepticism followed. The proof was submitted to the journal *Annals of Mathematics* in 1998, where it underwent rigorous scrutiny. It was not until 2005 that the journal accepted the proof, however, they noted that verifying the computation components were not feasible by humans. 
+
+To help verify every aspect of this proof, Hales launched the Flyspeck Project to formally prove this conjecture using automated theorem-proving systems. By 2014, Flyspeck completed the formal verification process. This achievement confirmed the correctness of Hales' proof.
+
+**Results of the Kepler Conjecture Proof**
+- The proof became a benchmark for computer-assisted proofs for longstanding mathematical problems.
+- Many advancements were made in areas like automated theorem proving, discrete geometry and optimization, and mathematical philosophy.
+
+
+
+
+
+
   - **C. The Classification of Finite Simple Groups**
     - Explanation of the classification theorem.
     - Extent of computer assistance in handling extensive case analyses.
