@@ -58,13 +58,13 @@ Computer-assisted proofs have led to some significant leaps in mathematics, solv
 
 **Understanding Computer-Assisted Proofs**
 
-A computer-assisted proof is a type of mathematical proof that relies on computer programs to verify certain parts of the argument. Unlike traditional proofs, which are done entirely by hand using logical reasoning, computer-assisted proofs use software to handle complex calculations or check numerous cases that would be too tedious or time-consuming for humans to manage alone.
+A computer-assisted proof is a mathematical proof that relies on a computer program to verify certain sections of the argument. Where as traditional proofs are done entirely by hand using logical reasoning. Computer-assisted proofs use software to handle many complex calculations or check numerous cases that would be too time-consuming for humans to manage by themselves.
 
 There are two main types of computer-assisted proofs:
 
-1. **Fully Automated Proofs**: In these proofs, the computer takes on almost the entire role of proving the theorem. The mathematician sets up the problem, and the computer uses algorithms to find the proof without much human intervention. This approach is useful for problems that can be broken down into repetitive or highly structured steps.
+1. **Fully Automated Proofs**: In fully automated proofs, the computer will attempt to prove the theorem with very little help. The mathematician simply sets up the problem, and the computer uses algorithms to find the proof without any human intervention. This can be very useful when problems that can be broken down into repetitive steps.
 
-2. **Semi-Automated Proofs**: These proofs involve a collaboration between humans and computers. While the computer handles specific calculations or verifies certain parts of the proof, mathematicians still guide the overall structure and reasoning. This method is often used when parts of the proof require creative insights that computers are not yet capable of providing.
+2. **Semi-Automated Proofs**: These proofs use a collaborative approach between humans and computers. While the computer handles specific complex calculations or verifies certain parts of the proof, mathematicians still guide the overall reasoning. This method is often used when parts of the proof need creative insights that computers are not capable of providing.
 
 Creating computer-assisted proofs involves various methodologies and tools designed to work together seamlessly. Some of the most commonly used tools include:
 
@@ -116,7 +116,6 @@ The Four Color Theorem has influenced the world of graph theory, some examples a
 	 -  Brought about philosophical discussions about the nature of mathematical truth and the role of verification.
 3. Practical Applications:
 	 -  It helped practical problems involving graph coloring such as map creation, register allocation in compilers, and frequency assignment in telecommunications.
-
 
   - **B. The Kepler Conjecture**
     - Statement of the conjecture regarding sphere packing.
