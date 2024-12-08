@@ -153,7 +153,6 @@ To help verify every aspect of this proof, Hales launched the Flyspeck Project t
     - Extent of computer assistance in handling extensive case analyses.
     - Significance in algebra.
 
-
 #### The Classification of Finite Simple Groups (CFSG) Theorem
 
 **Overview** 
