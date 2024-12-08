@@ -86,10 +86,34 @@ Computer assistance is especially beneficial in situations where the proof requi
 
 **III. Famous Examples of Computer-Assisted Proofs**
 
-  - **A. The Four Color Theorem**
-    - Overview of the theorem.
-    - Role of computer assistance in its proof.
-    - Impact on graph theory.
+  - **A. The Four Color Theorem**: The Four Color Theorem states that any planar map can be colored using at most four colors such that no two adjacent regions share the same color. In this case, adjacent refers to two regions sharing a boundary segment, not just a point.
+    This 
+
+##### The Four Color Theorem
+
+**Overview**
+The Four Color Theorem states that any planar map can be colored using at most four colors such that no two adjacent regions share the same color. In this case, adjacent refers to two regions sharing a boundary segment, not just a point.
+
+This theorem was conjectured in 1852 by Francis Guthrie while trying to color a map of England. The theorem applies to abstract planar graphs and is a foundational result in graph theory.
+
+**Role of Computer Assistance in the Proof**
+Due to the difficulty of the Four Color Theorem to prove, many false starts and partial results came as a result. This theorem was proved in 1976 and was a one of a kind proof as it relied on computer assistance.
+
+The key contributors in this proof were Kenneth Appel and Wolfgang Haken. whom were mathematicians at University of Illinois. They reduced the problem to only needing to check 1,936 "reducible configurations," cases.
+
+The role of computers in this proof came when Appel and Haken needed to verify the reducibility of all 1,936 cases. This marked one of the first significant uses of computers to solve a mathematical theorem, sparking debates about the validity and nature of proofs. Due to the heavy reliance on computers, this raised concerns about trustworthiness since no human could feasibly verify all the computational steps by hand. 
+
+**Impact on Graph Theory and Mathematics**
+The Four Color Theorem has influenced the world of graph theory, some examples are:
+1. Graph Coloring Problems:
+	-  Deepened the study of graph coloring, with applications in scheduling, network design, and optimization
+	-  Established planar graphs as a cornerstone in understanding combinatorial properties of networks
+2. Computational Mathematics:
+	 -  Pioneered computer-assisted proofs which led to the development of automated theorem proving and computational mathematics.
+	 -  Brought about philosophical discussions about the nature of mathematical truth and the role of verification.
+3. Practical Applications:
+	 -  It helped practical problems involving graph coloring such as map creation, register allocation in compilers, and frequency assignment in telecommunications.
+
   - **B. The Kepler Conjecture**
     - Statement of the conjecture regarding sphere packing.
     - Description of Thomas Hales' computer-assisted proof.
