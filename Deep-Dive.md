@@ -86,9 +86,6 @@ Computer assistance is especially beneficial in situations where the proof requi
 
 **III. Famous Examples of Computer-Assisted Proofs**
 
-  - **A. The Four Color Theorem**: The Four Color Theorem states that any planar map can be colored using at most four colors such that no two adjacent regions share the same color. In this case, adjacent refers to two regions sharing a boundary segment, not just a point.
-    This 
-
 #### The Four Color Theorem
 
 **Overview**
@@ -125,11 +122,13 @@ The Four Color Theorem has influenced the world of graph theory, some examples a
 #### The Kepler Conjecture
 
 **Overview**
+
 The Kepler Conjecture assets that the most efficient way to pack identical spheres in three-dimensional space is in a face-centered cubic (FCC) or hexagonal close-packing (HCP) arrangement. These arrangements fill approximately 74.05% of the volume of space.
 
 This conjecture was proposed by Johannes Kepler in 1611. It remained unproven for nearly four centuries and is a important result in the study of sphere packing.
 
 **Role of Computer Assistance in the Proof**
+
 In 1998, the proof was done by Thomas Hales and his graduate student Samuel Ferguson. The proof combined traditional mathematical reasoning alongside computer-assisted verification.
 
 Hales and Ferguson were able to reduce the problem to an enormously large, but finite, number of specific cases by analyzing local sphere configurations. Additionally, they computed and verified complex inequalities related to the density of sphere arrangements. Manual verification is the traditional way of verification but it was infeasible in this case, so many software tools and algorithms were used for computations and verification.
@@ -141,23 +140,53 @@ As a result of this proof, skepticism followed. The proof was submitted to the j
 To help verify every aspect of this proof, Hales launched the Flyspeck Project to formally prove this conjecture using automated theorem-proving systems. By 2014, Flyspeck completed the formal verification process. This achievement confirmed the correctness of Hales' proof.
 
 **Results of the Kepler Conjecture Proof**
+
 - The proof became a benchmark for computer-assisted proofs for longstanding mathematical problems.
 - Many advancements were made in areas like automated theorem proving, discrete geometry and optimization, and mathematical philosophy.
-
-
-
-
 
 
   - **C. The Classification of Finite Simple Groups**
     - Explanation of the classification theorem.
     - Extent of computer assistance in handling extensive case analyses.
     - Significance in algebra.
-  - **D. The Boolean Pythagorean Triples Problem**
+
+
+#### The Classification of Finite Simple Groups (CFSG) Theorem
+
+**Overview** 
+
+The Classification of Finite Simple Groups is one of the most monumental achievements in modern mathematics. It states:
+Every finite simple group belongs to one of the following families:
+1. Cyclic groups of prime order.
+2. Alternating groups $A_{n}$ for $n \ge 5$, the group of even permutations on $n$ elements.
+3. Groups of Lie type
+4. 26 sporadic groups (no correlation to any of the first three groups)
+
+A finite simple group is a group that is finite, nontrivial, and has no normal subgroups other than the trivial group and itself. These are the building blocks of all finite groups, much like prime numbers are the building blocks of integers.
+
+**Role of Computer Assistance in Proof**
+
+The proof of the Classification of Finite Simple Groups spanned over 50 years and involved contributions from hundreds of mathematicians. The problem with proving the CFSG are the exhaustive case analyses which proved to be the most complex parts.
+
+Many aspects of the proof required detailed examination of specific configurations, properties of subgroups, and representations. Computers were used to handle these cases efficiently. Algorithms implemented in computation algebra systems, like GAP and MAGMA, to verify properties of specific groups and their representations.
+
+With the first three groups out of the way, studying sporadic groups relied heavily on computational techniques to explore subgroup structures and properties. Alongside sporadic groups, certain subgroup lattice configurations required computer assistance.
+
+**Significance in Algebra**
+
+The CFSG has many results across mathematics:
+
+1. Structure and Symmetry
+2. Applications in fields such as Algebraic Geometry, Number Theory, and Mathematical Physics.
+3. Theory of Representations
+4. Unification of Mathematics
+
+ **D. The Boolean Pythagorean Triples Problem**
     - Description of the problem.
     - Use of SAT solvers in the proof by Marijn Heule, Oliver Kullmann, and Victor Marek.
     - Discussion of the proof's size and verification.
-  - **E. Other Notable Examples**
+
+**E. Other Notable Examples**
     - Brief mentions of additional theorems or conjectures utilizing computer assistance (e.g., Robertson–Seymour theorem, Ligocki's work on knot theory).
 
 **IV. Are Computer-Assisted Proofs Really "Proofs"?**
