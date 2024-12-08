@@ -40,15 +40,27 @@ header-includes:
 
 **I. Introduction**
 
-- **A. Background on Mathematical Proofs**
-    - Traditional methods of proving mathematical theorems.
-    - Importance of proofs in establishing mathematical truth.
-- **B. Emergence of Computer-Assisted Proofs**
-    - Introduction to the concept of using computers in proofs.
-    - Historical context and evolution.
-- **C. Purpose and Structure of the Paper**
-    - Outline the objectives: exploring famous computer-assisted proofs and evaluating their validity.
-    - Brief overview of sections.
+# Computer Assisted Proofs
+
+---
+
+**I. Introduction**
+
+Mathematics is often seen as the language that describes the universe. At its core, mathematics relies on proofs to confirm that ideas and theorems are true. Over time, the way we create these proofs has changed a lot. This paper looks into computer-assisted proofs, exploring how they started, why they're important, and the debates about whether they're as valid as traditional proofs.
+
+ **Background on Mathematical Proofs**
+
+Mathematical proofs are essential because they show that a statement or theorem is always true. Traditionally, mathematicians create proofs by carefully reasoning through each step, starting from basic principles and building up to the final conclusion. This process ensures that every part of the proof is logically sound and understandable.
+
+Proofs do more than just confirm that something is true; they help mathematicians understand why it's true. By working through proofs, mathematicians can discover new connections and deepen their knowledge of mathematical concepts. The beauty of traditional proofs lies in their clarity and the way they reveal the underlying structure of mathematics.
+
+**Emergence of Computer-Assisted Proofs**
+
+With the rise of computers, mathematicians began using them to help with proofs. Computer-assisted proofs use software and algorithms to handle complex calculations and check many different cases that would be too time-consuming to do by hand. This combination of human thinking and machine efficiency allows mathematicians to tackle problems that were previously out of reach.
+
+The idea of using computers in proofs started around the mid-20th century as computers became more powerful. Early uses involved simple calculations, but as technology advanced, so did the methods for creating proofs. Now, there are specialized programs and proof assistants that can not only verify proofs but also help construct them with minimal human input.
+
+Computer-assisted proofs have led to some major breakthroughs in mathematics, solving long-standing problems and classifying complex mathematical structures. These achievements show how powerful computational tools can be in advancing mathematical knowledge, challenging the traditional ways of creating proofs.
 
 **II. Understanding Computer-Assisted Proofs**
 
