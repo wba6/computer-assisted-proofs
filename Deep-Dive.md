@@ -34,7 +34,6 @@ header-includes:
     \makeatother
 ---
 
-
 # Computer Assisted Proofs
 
 ---
