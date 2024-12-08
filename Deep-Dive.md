@@ -56,17 +56,33 @@ The idea of using computers in proofs started around the mid-20th century as com
 
 Computer-assisted proofs have led to some major breakthroughs in mathematics, solving long-standing problems and classifying complex mathematical structures. These achievements show how powerful computational tools can be in advancing mathematical knowledge, challenging the traditional ways of creating proofs.
 
-**II. Understanding Computer-Assisted Proofs**
+**Understanding Computer-Assisted Proofs**
 
-  - **A. Definition and Characteristics**
-    - What constitutes a computer-assisted proof.
-    - Distinction between fully automated and semi-automated proofs.
-  - **B. Methodologies and Tools**
-    - Software and algorithms commonly used.
-    - Examples of programming languages and proof assistants (e.g., Coq, HOL).
-  - **C. Comparison with Traditional Proofs**
-    - Advantages and differences in approach.
-    - Situations where computer assistance is particularly beneficial.
+A computer-assisted proof is a type of mathematical proof that relies on computer programs to verify certain parts of the argument. Unlike traditional proofs, which are done entirely by hand using logical reasoning, computer-assisted proofs use software to handle complex calculations or check numerous cases that would be too tedious or time-consuming for humans to manage alone.
+
+There are two main types of computer-assisted proofs:
+
+1. **Fully Automated Proofs**: In these proofs, the computer takes on almost the entire role of proving the theorem. The mathematician sets up the problem, and the computer uses algorithms to find the proof without much human intervention. This approach is useful for problems that can be broken down into repetitive or highly structured steps.
+
+2. **Semi-Automated Proofs**: These proofs involve a collaboration between humans and computers. While the computer handles specific calculations or verifies certain parts of the proof, mathematicians still guide the overall structure and reasoning. This method is often used when parts of the proof require creative insights that computers are not yet capable of providing.
+
+Creating computer-assisted proofs involves various methodologies and tools designed to work together seamlessly. Some of the most commonly used tools include:
+
+- **Automated Theorem Provers**: These tools attempt to prove theorems automatically without much human input. They use algorithms to explore possible proof paths and find valid arguments. Examples include:
+  - **Prover9**: An automated theorem prover for first-order and equational logic.
+  - **E-Prover**: A theorem prover for first-order logic with equality.
+
+- **Programming Languages**: Certain programming languages are designed to work closely with proof assistants and theorem provers. They help in writing the formal definitions and proofs that these tools can understand and verify. Examples include:
+  - **ML**: Often used in proof assistants like HOL.
+  - **Gallina**: The language used by Coq for writing proofs and definitions.
+
+**Comparison with Traditional Proofs**
+
+Computer-assisted proofs offer several advantages over traditional, hand-written proofs. One of the main benefits is their ability to handle very complex and large-scale problems that would be impractical to solve manually. Computers can quickly perform extensive calculations and check countless cases, which enhances the precision and reliability of the proof.
+
+However, there are also some differences in approach between computer-assisted and traditional proofs. Traditional proofs often rely on human intuition and creativity to find elegant and insightful arguments. In contrast, computer-assisted proofs may be more mechanical, focusing on exhaustive verification rather than creative reasoning.
+
+Computer assistance is especially beneficial in situations where the proof requires checking a vast number of cases or performing complex computations. For example, in the proof of the Four Color Theorem, a computer was used to check many different configurations of maps to ensure that four colors were sufficient. Without computer assistance, such a proof would have been nearly impossible to complete.
 
 **III. Famous Examples of Computer-Assisted Proofs**
 
