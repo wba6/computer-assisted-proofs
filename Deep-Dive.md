@@ -38,7 +38,7 @@ header-includes:
 
 ---
 
-**I. Introduction**
+**Introduction**
 
 Mathematics is often seen as the language that describes the universe. At its core, mathematics relies on proofs to confirm that ideas and theorems are true. Over time, the way we create these proofs has changed a lot. This paper looks into computer-assisted proofs, exploring how they started, why they're important, and the debates about whether they're as valid as traditional proofs.
 
