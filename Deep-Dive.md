@@ -127,16 +127,6 @@ To help verify every aspect of this proof, Hales launched the Flyspeck Project t
 - The proof became a benchmark for computer-assisted proofs for longstanding mathematical problems.
 - Many advancements were made in areas like automated theorem proving, discrete geometry and optimization, and mathematical philosophy.
 
-<<<<<<< HEAD
-
-  - **C. The Classification of Finite Simple Groups**
-    - Explanation of the classification theorem.
-    - Extent of computer assistance in handling extensive case analyses.
-    - Significance in algebra.
-
-
-=======
->>>>>>> 724d38836a59e5f1fcdeca7fe3822ced63486988
 #### The Classification of Finite Simple Groups (CFSG) Theorem
 
 **Overview** 
@@ -209,3 +199,13 @@ However, over time, the mathematical community has become more accepting of comp
   - **C. Final Thoughts**
     - The evolving nature of mathematical proof.
     - The ongoing dialogue between tradition and innovation in mathematics.
+### **Conclusion**
+
+Computer-assisted proofs have revolutionized mathematics by providing solutions to problems that are otherwise unfeasible by traditional methods. Some examples of where computer-assisted proofs shine are:
+
+1. Handling complexity: Manages extensive case analyses and complex calculations
+2. Advancing rigor of computer-assisted proofs: Automated theorem-proving systems allow for formal proofs to be produced to ensure accuracy of computer-assisted proofs.
+3. Promotes collaboration: Computer tools allow mathematicians to connect ideas, test conjectures, and verify steps of proofs. 
+4. Beyond Traditional Mathematics: Computer-assisted proofs inspire new questions and methods due to the endless possibilities of technology.
+
+While computer-assisted proofs offer a type of precision humans do not, they challenge traditional notions of mathematical proof by prioritizing correctness over human comprehensibility. Trust in these proofs relies on the reliability of software and hardware, as well as advances in formal verification tools. Despite philosophical concerns about their explanatory power, computer-assisted proofs are increasingly accepted as they expand the scope of mathematics.
