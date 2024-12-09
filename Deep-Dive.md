@@ -42,11 +42,13 @@ header-includes:
 
 Mathematics is often seen as a way to describe the universe. At its core, mathematics uses proofs to show that ideas and theorems are true. So these ideas can be further iterated upon. Over time, the way we create these proofs has changed a lot. This paper looks into computer-assisted proofs, exploring how they started, why they're important, and the debates about whether they're as valid as traditional proofs.
 
+
 #### **Background on Mathematical Proofs**
 
 Mathematical proofs are important because they show that a statement or theorem is **always** true. Historically, mathematicians create proofs by carefully reasoning through each step, starting from basic already proven principles and building to their final conclusion. This process helps show that every part of the proof is logically sound.
 
 However, proofs do more than just confirm that something is true; they help others understand why it's true. By working through proofs, mathematicians can explore new ideas and deepen their knowledge of math. Many consider the beauty of traditional proofs to lie in their clarity and the fact that they reveal the underlying structure of the math they consist of.
+
 
 #### **Emergence of Computer-Assisted Proofs**
 
@@ -55,6 +57,7 @@ As computers grew more popular though the 1900s mathematicians began using them 
 The idea of using computers to help with proofs started around the mid-20th century as computers became more powerful and efficient. At first computers where only used for simple calculations, but as technology advanced, so did the methods for utilizing computers in proofs. Now, there are specialized programs and proof assistants that can verify proofs and also help construct them with very minimal human input.
 
 Computer-assisted proofs have led to some significant leaps in mathematics, solving many long-standing problems. These achievements show how powerful computational tools can be in advancing mathematical knowledge, challenging the traditional ways of creating proofs.
+
 
 #### **Understanding Computer-Assisted Proofs**
 
@@ -76,6 +79,7 @@ Creating computer-assisted proofs involves various methodologies and tools desig
   - **ML**: Often used in proof assistants like HOL.
   - **Gallina**: The language used by Coq for writing proofs and definitions.
 
+
 **Comparison with Traditional Proofs**
 
 Computer-assisted proofs offer some advantages over traditional proofs. One of the main benefits is their ability to handle very complex and large-scale problems that would be impractical to solve by hand. Computers can quickly perform calculations and check almost limitless cases, which enhances the precision and reliability of the proof.
@@ -88,11 +92,13 @@ Computer assistance is beneficial in situations where the proof requires checkin
 
 #### The Four Color Theorem
 
+
 **Overview**
 
 The Four Color Theorem states that any planar map can be colored using at most four colors such that no two adjacent regions share the same color. In this case, adjacent refers to two regions sharing a boundary segment, not just a point.
 
 This theorem was conjectured in 1852 by Francis Guthrie while trying to color a map of England. The theorem applies to abstract planar graphs and is a foundational result in graph theory.
+
 
 **Role of Computer Assistance in the Proof**
 
@@ -104,11 +110,13 @@ The role of computers in this proof came when Appel and Haken needed to verify t
 
 #### **The Kepler Conjecture**
 
+
 **Overview**
 
 The Kepler Conjecture assets that the most efficient way to pack identical spheres in three-dimensional space is in a face-centered cubic (FCC) or hexagonal close-packing (HCP) arrangement. These arrangements fill approximately 74.05% of the volume of space.
 
 This conjecture was proposed by Johannes Kepler in 1611. It remained unproven for nearly four centuries and is a important result in the study of sphere packing.
+
 
 **Role of Computer Assistance in the Proof**
 
@@ -122,12 +130,14 @@ As a result of this proof, skepticism followed. The proof was submitted to the j
 
 To help verify every aspect of this proof, Hales launched the Flyspeck Project to formally prove this conjecture using automated theorem-proving systems. By 2014, Flyspeck completed the formal verification process. This achievement confirmed the correctness of Hales' proof.
 
+
 **Results of the Kepler Conjecture Proof**
 
 - The proof became a benchmark for computer-assisted proofs for longstanding mathematical problems.
 - Many advancements were made in areas like automated theorem proving, discrete geometry and optimization, and mathematical philosophy.
 
 #### **The Classification of Finite Simple Groups (CFSG) Theorem**
+
 
 **Overview** 
 
@@ -140,6 +150,7 @@ Every finite simple group belongs to one of the following families:
 
 A finite simple group is a group that is finite, nontrivial, and has no normal subgroups other than the trivial group and itself. These are the building blocks of all finite groups, much like prime numbers are the building blocks of integers.
 
+
 **Role of Computer Assistance in Proof**
 
 The proof of the Classification of Finite Simple Groups spanned over 50 years and involved contributions from hundreds of mathematicians. The problem with proving the CFSG are the exhaustive case analyses which proved to be the most complex parts.
@@ -147,6 +158,7 @@ The proof of the Classification of Finite Simple Groups spanned over 50 years an
 Many aspects of the proof required detailed examination of specific configurations, properties of subgroups, and representations. Computers were used to handle these cases efficiently. Algorithms implemented in computation algebra systems, like GAP and MAGMA, to verify properties of specific groups and their representations.
 
 With the first three groups out of the way, studying sporadic groups relied heavily on computational techniques to explore subgroup structures and properties. Alongside sporadic groups, certain subgroup lattice configurations required computer assistance.
+
 
 ### **Are Computer-Assisted Proofs Really "Proofs"?**
 
@@ -162,17 +174,21 @@ Philosophers and mathematicians have different opinions on whether computer-assi
 
 On the other hand, some philosophers question the nature of understanding in computer-assisted proofs. They argue that while a computer can verify that each step of a proof is correct, it doesn't provide the same level of insight and comprehension that a human-written proof does. This leads to debates about whether a proof needs to be fully understandable by humans to be considered valid.
 
+
 **Reliability and Verification**
 
 One of the main concerns with computer-assisted proofs is their reliability. Computers are programmed by humans, which means there is always a possibility of software bugs or hardware errors affecting the outcome of a proof. If there's a mistake in the computer program used for the proof, it could lead to incorrect results.
 
 To address these concerns, mathematicians have developed methods to ensure the correctness of computer-assisted proofs. This includes writing highly reliable software, performing independent verifications using different programs, and sometimes even having multiple mathematicians review the proof. Additionally, projects like the Flyspeck Project for the Kepler Conjecture aim to formally verify every part of a computer-assisted proof using different systems to minimize the risk of errors.
 
+
 **Acceptance within the Mathematical Community**
 
 Initially, many mathematicians were skeptical about computer-assisted proofs. The reliance on machines rather than purely human reasoning made some question their legitimacy. The Four Color Theorem and the Kepler Conjecture, both proven with the help of computers, were particularly controversial because their proofs involved checking thousands of cases that no human could feasibly verify on their own.
 
 However, over time, the mathematical community has become more accepting of computer-assisted proofs. As technology has advanced and proof assistants have become more sophisticated, the confidence in these methods has grown. Many now see computer-assisted proofs as a valuable tool that complements traditional methods, especially for problems that are too complex for manual proofs. While debates still exist, the acceptance of computer-assisted proofs has significantly increased, and they are now considered an important part of modern mathematical research.
+
+
 ### **Conclusion**
 
 Computer-assisted proofs have revolutionized mathematics by providing solutions to problems that are otherwise unfeasible by traditional methods. Some examples of where computer-assisted proofs shine are:
