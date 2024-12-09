@@ -145,7 +145,7 @@ Many aspects of the proof required detailed examination of specific configuratio
 
 With the first three groups out of the way, studying sporadic groups relied heavily on computational techniques to explore subgroup structures and properties. Alongside sporadic groups, certain subgroup lattice configurations required computer assistance.
 
-### **Are Computer-Assisted Proofs Really "Proofs"?**
+## **Are Computer-Assisted Proofs Really "Proofs"?**
 
 The use of computers in mathematical proofs has created a lot of debate about whether these proofs are as legitimate as traditional proofs. Traditionally, a mathematical proof is a logical argument that demonstrates the validity of a theorem beyond doubt. These proofs are built step-by-step, using previously established facts. The process relies heavily on human creativity, and the ability to explain complex thoughts ideas clearly.
 
@@ -169,7 +169,7 @@ Initially, many mathematicians were skeptical about computer-assisted proofs. Th
 
 However, over time, the mathematical community has become more accepting of computer-assisted proofs. As technology has advanced and proof assistants have become more sophisticated, the confidence in these methods has grown. Many now see computer-assisted proofs as a valuable tool that complements traditional methods, especially for problems that are too complex for manual proofs. While debates still exist, the acceptance of computer-assisted proofs has significantly increased, and they are now considered an important part of modern mathematical research.
 
-### **Conclusion**
+## **Conclusion**
 
 Computer-assisted proofs have revolutionized mathematics by providing solutions to problems that are otherwise unfeasible by traditional methods. Some examples of where computer-assisted proofs shine are:
 
