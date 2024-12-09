@@ -148,46 +148,29 @@ Many aspects of the proof required detailed examination of specific configuratio
 
 With the first three groups out of the way, studying sporadic groups relied heavily on computational techniques to explore subgroup structures and properties. Alongside sporadic groups, certain subgroup lattice configurations required computer assistance.
 
-**Significance in Algebra**
-
-The CFSG has many results across mathematics:
-
-1. Structure and Symmetry
-2. Applications in fields such as Algebraic Geometry, Number Theory, and Mathematical Physics.
-3. Theory of Representations
-4. Unification of Mathematics
-
- **D. The Boolean Pythagorean Triples Problem**
-    - Description of the problem.
-    - Use of SAT solvers in the proof by Marijn Heule, Oliver Kullmann, and Victor Marek.
-    - Discussion of the proof's size and verification.
-
-**E. Other Notable Examples**
-    - Brief mentions of additional theorems or conjectures utilizing computer assistance (e.g., Robertson–Seymour theorem, Ligocki's work on knot theory).
-
-### **IV. Are Computer-Assisted Proofs Really "Proofs"?**
+### **Are Computer-Assisted Proofs Really "Proofs"?**
 
 The use of computers in mathematical proofs has sparked a lot of discussions about whether these proofs are as legitimate as traditional, hand-written ones. This section explores different viewpoints and concerns regarding the validity of computer-assisted proofs.
 
-**A. Traditional Notions of Proof in Mathematics**
+**Traditional Notions of Proof in Mathematics**
 
 Traditionally, a mathematical proof is a logical argument that demonstrates the truth of a theorem beyond any doubt. These proofs are built step-by-step by mathematicians, using previously established theorems and axioms. The process relies heavily on human intuition, creativity, and the ability to explain complex ideas clearly.
 
 In this traditional view, proofs are not just about proving something is true; they're also about understanding why it's true. The elegance and simplicity of a proof are often valued because they provide deeper insights into the mathematical concepts involved. Human mathematicians can spot patterns, make connections between different areas of math, and come up with innovative approaches to solve problems.
 
-**B. Philosophical Perspectives**
+**Philosophical Perspectives**
 
 Philosophers and mathematicians have different opinions on whether computer-assisted proofs should be considered true proofs. Some argue that since computers can handle vast amounts of calculations and check numerous cases quickly, they enhance the reliability of proofs. From this perspective, computers are just tools that extend human capabilities, similar to how calculators or telescopes help us in other fields.
 
 On the other hand, some philosophers question the nature of understanding in computer-assisted proofs. They argue that while a computer can verify that each step of a proof is correct, it doesn't provide the same level of insight and comprehension that a human-written proof does. This leads to debates about whether a proof needs to be fully understandable by humans to be considered valid.
 
-**C. Reliability and Verification**
+**Reliability and Verification**
 
 One of the main concerns with computer-assisted proofs is their reliability. Computers are programmed by humans, which means there is always a possibility of software bugs or hardware errors affecting the outcome of a proof. If there's a mistake in the computer program used for the proof, it could lead to incorrect results.
 
 To address these concerns, mathematicians have developed methods to ensure the correctness of computer-assisted proofs. This includes writing highly reliable software, performing independent verifications using different programs, and sometimes even having multiple mathematicians review the proof. Additionally, projects like the Flyspeck Project for the Kepler Conjecture aim to formally verify every part of a computer-assisted proof using different systems to minimize the risk of errors.
 
-**D. Acceptance within the Mathematical Community**
+**Acceptance within the Mathematical Community**
 
 Initially, many mathematicians were skeptical about computer-assisted proofs. The reliance on machines rather than purely human reasoning made some question their legitimacy. The Four Color Theorem and the Kepler Conjecture, both proven with the help of computers, were particularly controversial because their proofs involved checking thousands of cases that no human could feasibly verify on their own.
 
@@ -206,18 +189,6 @@ However, over time, the mathematical community has become more accepting of comp
   - **C. Balancing Human and Machine Collaboration**
     - Integrating computational tools with traditional mathematical methods.
     - Future prospects for synergy between mathematicians and technology.
-
-**VI. The Future of Computer-Assisted Proofs**
-
-  - **A. Technological Advancements**
-    - Improvements in computing power and algorithms.
-    - Emerging tools and platforms for proof verification.
-  - **B. Integration with Artificial Intelligence**
-    - Potential for AI to contribute to theorem discovery and proof construction.
-    - Ethical and practical considerations.
-  - **C. Evolving Standards and Practices**
-    - Developing best practices for creating and validating computer-assisted proofs.
-    - Educational implications for training future mathematicians.
 
 **VII. Conclusion**
 
