@@ -150,21 +150,21 @@ In the traditional view, proofs are not just about proving something is true; th
 
 **Philosophical Perspectives**
 
-Philosophers and mathematicians have different opinions on whether computer-assisted proofs should be considered true proofs. Some argue that since computers can handle vast amounts of calculations and check numerous cases quickly, they enhance the reliability of proofs. From this perspective, computers are just tools that extend human capabilities, similar to how calculators or telescopes help us in other fields.
+Some mathematicians have different opinions on whether computer-assisted proofs should be considered true proofs. Some argue that since computers can handle large amounts of information and check various cases quickly, they make proofs easy to degust. From this perspective, computers are simply tools that extend human capabilities, like how calculators or telescopes help us in other fields.
 
-On the other hand, some philosophers question the nature of understanding in computer-assisted proofs. They argue that while a computer can verify that each step of a proof is correct, it doesn't provide the same level of insight and comprehension that a human-written proof does. This leads to debates about whether a proof needs to be fully understandable by humans to be considered valid.
+On the other hand, some question the understanding of computer-assisted proofs. They argue that while a computer can confirm that each step of a proof is correct, it doesn't provide the same level of comprehension that a traditional proof does. This leads to debates about whether a proof needs to be fully disgustable by humans to be considered valid.
 
 **Reliability and Verification**
 
-One of the main concerns with computer-assisted proofs is their reliability. Computers are programmed by humans, which means there is always a possibility of software bugs or hardware errors affecting the outcome of a proof. If there's a mistake in the computer program used for the proof, it could lead to incorrect results.
+One of the main problems with computer-assisted proofs is their reliability. Computers are programmed by humans, which means there is always a possibility of software bugs or hardware errors affecting the result of a proof. If there is a mistake in the computer program used for a proof, it could lead to incorrect or misleading results.
 
-To address these concerns, mathematicians have developed methods to ensure the correctness of computer-assisted proofs. This includes writing highly reliable software, performing independent verifications using different programs, and sometimes even having multiple mathematicians review the proof. Additionally, projects like the Flyspeck Project for the Kepler Conjecture aim to formally verify every part of a computer-assisted proof using different systems to minimize the risk of errors.
+However, mathematicians have created various methods to ensure the correctness of computer-assisted proofs. This includes writing reliable software, performing independent checks and tests using different programs, and sometimes having multiple mathematicians review the proof and code. Additionally, projects like the Flyspeck Project for the Kepler Conjecture aim to verify every various part of a computer-assisted proof using different systems to minimize the risk of errors. Although errors do still remain possible.
 
 **Acceptance within the Mathematical Community**
 
-Initially, many mathematicians were skeptical about computer-assisted proofs. The reliance on machines rather than purely human reasoning made some question their legitimacy. The Four Color Theorem and the Kepler Conjecture, both proven with the help of computers, were particularly controversial because their proofs involved checking thousands of cases that no human could feasibly verify on their own.
+At first many mathematicians were skeptical about computer-assisted proofs. The reliance on machines that can't be fully checked rather than purely human reasoning made some question their accuracy. The Four Color Theorem and the Kepler Conjecture, which were both proven with computers assistance, were particularly controversial because their proofs involved checking thousands of cases that no human could verify on their own.
 
-However, over time, the mathematical community has become more accepting of computer-assisted proofs. As technology has advanced and proof assistants have become more sophisticated, the confidence in these methods has grown. Many now see computer-assisted proofs as a valuable tool that complements traditional methods, especially for problems that are too complex for manual proofs. While debates still exist, the acceptance of computer-assisted proofs has significantly increased, and they are now considered an important part of modern mathematical research.
+However, as time has passed, the mathematical community has become accepting of computer-assisted proofs. As technology has advanced and proof assistants have become more sophisticated and accurate. Many now see computer-assisted proofs as a valuable tool that complements traditional methods, especially for problems that are too complicated for manual proofs. While some debate still exists, the acceptance of computer-assisted proofs has significantly increased, and they are now considered a key part of modern mathematical research.
 
 ## **Conclusion**
 
