@@ -78,13 +78,13 @@ Creating computer-assisted proofs involves various methodologies and tools desig
 
 **Comparison with Traditional Proofs**
 
-Computer-assisted proofs offer several advantages over traditional, hand-written proofs. One of the main benefits is their ability to handle very complex and large-scale problems that would be impractical to solve manually. Computers can quickly perform extensive calculations and check countless cases, which enhances the precision and reliability of the proof.
+Computer-assisted proofs offer some advantages over traditional proofs. One of the main benefits is their ability to handle very complex and large-scale problems that would be impractical to solve by hand. Computers can quickly perform calculations and check almost limitless cases, which enhances the precision and reliability of the proof.
 
-However, there are also some differences in approach between computer-assisted and traditional proofs. Traditional proofs often rely on human intuition and creativity to find elegant and insightful arguments. In contrast, computer-assisted proofs may be more mechanical, focusing on exhaustive verification rather than creative reasoning.
+However, there are also some differences in approach between computer-assisted and traditional proofs. Traditional proofs often rely on human intuition and creativity to find elegant and insightful arguments. Computer-assisted proofs may be more mechanical, focusing on exhaustive verification rather than creative reasoning.
 
-Computer assistance is especially beneficial in situations where the proof requires checking a vast number of cases or performing complex computations. For example, in the proof of the Four Color Theorem, a computer was used to check many different configurations of maps to ensure that four colors were sufficient. Without computer assistance, such a proof would have been nearly impossible to complete.
+Computer assistance is beneficial in situations where the proof requires checking a large or complex number of cases. For example, in the proof of the Four Color Theorem, a computer was used to check many different configurations of maps to ensure that four colors were sufficient. Without computer assistance, such a proof would have been nearly impossible to complete by hand.
 
-**III. Famous Examples of Computer-Assisted Proofs**
+### **Famous Examples of Computer-Assisted Proofs**
 
 #### The Four Color Theorem
 
@@ -101,23 +101,6 @@ Due to the difficulty of the Four Color Theorem to prove, many false starts and 
 The key contributors in this proof were Kenneth Appel and Wolfgang Haken. whom were mathematicians at University of Illinois. They reduced the problem to only needing to check 1,936 "reducible configurations," cases.
 
 The role of computers in this proof came when Appel and Haken needed to verify the reducibility of all 1,936 cases. This marked one of the first significant uses of computers to solve a mathematical theorem, sparking debates about the validity and nature of proofs. Due to the heavy reliance on computers, this raised concerns about trustworthiness since no human could feasibly verify all the computational steps by hand. 
-
-**Impact on Graph Theory and Mathematics**
-
-The Four Color Theorem has influenced the world of graph theory, some examples are:
-1. Graph Coloring Problems:
-	-  Deepened the study of graph coloring, with applications in scheduling, network design, and optimization
-	-  Established planar graphs as a cornerstone in understanding combinatorial properties of networks
-2. Computational Mathematics:
-	 -  Pioneered computer-assisted proofs which led to the development of automated theorem proving and computational mathematics.
-	 -  Brought about philosophical discussions about the nature of mathematical truth and the role of verification.
-3. Practical Applications:
-	 -  It helped practical problems involving graph coloring such as map creation, register allocation in compilers, and frequency assignment in telecommunications.
-
-  - **B. The Kepler Conjecture**
-    - Statement of the conjecture regarding sphere packing.
-    - Description of Thomas Hales' computer-assisted proof.
-    - Verification and subsequent developments. 
 
 #### The Kepler Conjecture
 
@@ -143,15 +126,6 @@ To help verify every aspect of this proof, Hales launched the Flyspeck Project t
 
 - The proof became a benchmark for computer-assisted proofs for longstanding mathematical problems.
 - Many advancements were made in areas like automated theorem proving, discrete geometry and optimization, and mathematical philosophy.
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 9d90bcac86d7907d2a4d9e699b018b2448231486
-  - **C. The Classification of Finite Simple Groups**
-    - Explanation of the classification theorem.
-    - Extent of computer assistance in handling extensive case analyses.
-    - Significance in algebra.
 
 #### The Classification of Finite Simple Groups (CFSG) Theorem
 
