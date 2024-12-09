@@ -173,32 +173,6 @@ To address these concerns, mathematicians have developed methods to ensure the c
 Initially, many mathematicians were skeptical about computer-assisted proofs. The reliance on machines rather than purely human reasoning made some question their legitimacy. The Four Color Theorem and the Kepler Conjecture, both proven with the help of computers, were particularly controversial because their proofs involved checking thousands of cases that no human could feasibly verify on their own.
 
 However, over time, the mathematical community has become more accepting of computer-assisted proofs. As technology has advanced and proof assistants have become more sophisticated, the confidence in these methods has grown. Many now see computer-assisted proofs as a valuable tool that complements traditional methods, especially for problems that are too complex for manual proofs. While debates still exist, the acceptance of computer-assisted proofs has significantly increased, and they are now considered an important part of modern mathematical research.
-
-**V. Advantages and Limitations of Computer-Assisted Proofs**
-
-  - **A. Advantages**
-    - Ability to handle complex and large-scale problems.
-    - Enhancing precision and reducing human error.
-    - Facilitating exploration of new mathematical territories.
-  - **B. Limitations**
-    - Dependence on technology and potential obsolescence.
-    - Challenges in understanding and interpreting proofs.
-    - Accessibility issues for mathematicians without programming expertise.
-  - **C. Balancing Human and Machine Collaboration**
-    - Integrating computational tools with traditional mathematical methods.
-    - Future prospects for synergy between mathematicians and technology.
-
-**VII. Conclusion**
-
-  - **A. Summary of Key Points**
-    - Recap of the role and examples of computer-assisted proofs.
-    - Overview of the debate on their validity as proofs.
-  - **B. Reflection on Their Impact**
-    - Influence on the advancement of mathematics.
-    - Shifts in the landscape of mathematical research and proof strategies.
-  - **C. Final Thoughts**
-    - The evolving nature of mathematical proof.
-    - The ongoing dialogue between tradition and innovation in mathematics.
 ### **Conclusion**
 
 Computer-assisted proofs have revolutionized mathematics by providing solutions to problems that are otherwise unfeasible by traditional methods. Some examples of where computer-assisted proofs shine are:
