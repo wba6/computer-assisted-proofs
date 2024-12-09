@@ -76,7 +76,7 @@ Creating computer-assisted proofs involves various methodologies and tools desig
   - **ML**: Often used in proof assistants like HOL.
   - **Gallina**: The language used by Coq for writing proofs and definitions.
 
-**Comparison with Traditional Proofs**
+## **Comparison with Traditional Proofs**
 
 Computer-assisted proofs offer some advantages over traditional proofs. One of the main benefits is their ability to handle very complex and large-scale problems that would be impractical to solve by hand. Computers can quickly perform calculations and check almost limitless cases, which enhances the precision and reliability of the proof.
 
@@ -84,15 +84,15 @@ However, there are also some differences in approach between computer-assisted a
 
 Computer assistance is beneficial in situations where the proof requires checking a large or complex number of cases. For example, in the proof of the Four Color Theorem, a computer was used to check many different configurations of maps to ensure that four colors were sufficient. Without computer assistance, such a proof would have been nearly impossible to complete by hand.
 
-### **Famous Examples of Computer-Assisted Proofs**
+## **Famous Examples of Computer-Assisted Proofs**
 
-#### The Four Color Theorem
+### The Four Color Theorem
 
-**Overview**
 
 The Four Color Theorem states that any planar map can be colored using at most four colors such that no two adjacent regions share the same color. In this case, adjacent refers to two regions sharing a boundary segment, not just a point.
 
 This theorem was conjectured in 1852 by Francis Guthrie while trying to color a map of England. The theorem applies to abstract planar graphs and is a foundational result in graph theory.
+
 
 **Role of Computer Assistance in the Proof**
 
@@ -102,13 +102,12 @@ The key contributors in this proof were Kenneth Appel and Wolfgang Haken. whom w
 
 The role of computers in this proof came when Appel and Haken needed to verify the reducibility of all 1,936 cases. This marked one of the first significant uses of computers to solve a mathematical theorem, sparking debates about the validity and nature of proofs. Due to the heavy reliance on computers, this raised concerns about trustworthiness since no human could feasibly verify all the computational steps by hand. 
 
-#### **The Kepler Conjecture**
-
-**Overview**
+### **The Kepler Conjecture**
 
 The Kepler Conjecture assets that the most efficient way to pack identical spheres in three-dimensional space is in a face-centered cubic (FCC) or hexagonal close-packing (HCP) arrangement. These arrangements fill approximately 74.05% of the volume of space.
 
 This conjecture was proposed by Johannes Kepler in 1611. It remained unproven for nearly four centuries and is a important result in the study of sphere packing.
+
 
 **Role of Computer Assistance in the Proof**
 
@@ -127,9 +126,7 @@ To help verify every aspect of this proof, Hales launched the Flyspeck Project t
 - The proof became a benchmark for computer-assisted proofs for longstanding mathematical problems.
 - Many advancements were made in areas like automated theorem proving, discrete geometry and optimization, and mathematical philosophy.
 
-#### **The Classification of Finite Simple Groups (CFSG) Theorem**
-
-**Overview** 
+### **The Classification of Finite Simple Groups (CFSG) Theorem**
 
 The Classification of Finite Simple Groups is one of the most monumental achievements in modern mathematics. It states:
 Every finite simple group belongs to one of the following families:
@@ -149,8 +146,6 @@ Many aspects of the proof required detailed examination of specific configuratio
 With the first three groups out of the way, studying sporadic groups relied heavily on computational techniques to explore subgroup structures and properties. Alongside sporadic groups, certain subgroup lattice configurations required computer assistance.
 
 ### **Are Computer-Assisted Proofs Really "Proofs"?**
-
-**Traditional Notions of Proof in Mathematics**
 
 The use of computers in mathematical proofs has created a lot of debate about whether these proofs are as legitimate as traditional proofs. Traditionally, a mathematical proof is a logical argument that demonstrates the validity of a theorem beyond doubt. These proofs are built step-by-step, using previously established facts. The process relies heavily on human creativity, and the ability to explain complex thoughts ideas clearly.
 
