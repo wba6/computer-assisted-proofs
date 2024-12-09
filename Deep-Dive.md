@@ -127,7 +127,6 @@ To help verify every aspect of this proof, Hales launched the Flyspeck Project t
 - The proof became a benchmark for computer-assisted proofs for longstanding mathematical problems.
 - Many advancements were made in areas like automated theorem proving, discrete geometry and optimization, and mathematical philosophy.
 
-
 #### **The Classification of Finite Simple Groups (CFSG) Theorem**
 
 **Overview** 
