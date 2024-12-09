@@ -220,4 +220,3 @@ Computer-assisted proofs have revolutionized mathematics by providing solutions 
 3. Promotes collaboration: Computer tools allow mathematicians to connect ideas, test conjectures, and verify steps of proofs. 
 4. Beyond Traditional Mathematics: Computer-assisted proofs inspire new questions and methods due to the endless possibilities of technology.
 
-While computer-assisted proofs offer a type of precision humans do not, they challenge traditional notions of mathematical proof by prioritizing correctness over human comprehensibility. Trust in these proofs relies on the reliability of software and hardware, as well as advances in formal verification tools. Despite philosophical concerns about their explanatory power, computer-assisted proofs are increasingly accepted as they expand the scope of mathematics.
