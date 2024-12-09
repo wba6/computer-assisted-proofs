@@ -88,11 +88,9 @@ Computer assistance is beneficial in situations where the proof requires checkin
 
 ### The Four Color Theorem
 
-
 The Four Color Theorem states that any planar map can be colored using at most four colors such that no two adjacent regions share the same color. In this case, adjacent refers to two regions sharing a boundary segment, not just a point.
 
 This theorem was conjectured in 1852 by Francis Guthrie while trying to color a map of England. The theorem applies to abstract planar graphs and is a foundational result in graph theory.
-
 
 **Role of Computer Assistance in the Proof**
 
@@ -107,7 +105,6 @@ The role of computers in this proof came when Appel and Haken needed to verify t
 The Kepler Conjecture assets that the most efficient way to pack identical spheres in three-dimensional space is in a face-centered cubic (FCC) or hexagonal close-packing (HCP) arrangement. These arrangements fill approximately 74.05% of the volume of space.
 
 This conjecture was proposed by Johannes Kepler in 1611. It remained unproven for nearly four centuries and is a important result in the study of sphere packing.
-
 
 **Role of Computer Assistance in the Proof**
 
