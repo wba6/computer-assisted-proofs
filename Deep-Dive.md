@@ -150,13 +150,11 @@ With the first three groups out of the way, studying sporadic groups relied heav
 
 ### **Are Computer-Assisted Proofs Really "Proofs"?**
 
-The use of computers in mathematical proofs has sparked a lot of discussions about whether these proofs are as legitimate as traditional, hand-written ones. This section explores different viewpoints and concerns regarding the validity of computer-assisted proofs.
-
 **Traditional Notions of Proof in Mathematics**
 
-Traditionally, a mathematical proof is a logical argument that demonstrates the truth of a theorem beyond any doubt. These proofs are built step-by-step by mathematicians, using previously established theorems and axioms. The process relies heavily on human intuition, creativity, and the ability to explain complex ideas clearly.
+The use of computers in mathematical proofs has created a lot of debate about whether these proofs are as legitimate as traditional proofs. Traditionally, a mathematical proof is a logical argument that demonstrates the validity of a theorem beyond doubt. These proofs are built step-by-step, using previously established facts. The process relies heavily on human creativity, and the ability to explain complex thoughts ideas clearly.
 
-In this traditional view, proofs are not just about proving something is true; they're also about understanding why it's true. The elegance and simplicity of a proof are often valued because they provide deeper insights into the mathematical concepts involved. Human mathematicians can spot patterns, make connections between different areas of math, and come up with innovative approaches to solve problems.
+In the traditional view, proofs are not just about proving something is true; they're also about understanding why it is true. The simplicity of a proof are often valued because they provide deep insights into the mathematical concepts involved in the proof. Human mathematicians can spot patterns, make connections between various areas of math, and come up with new and innovative approaches to solve problems.
 
 **Philosophical Perspectives**
 
