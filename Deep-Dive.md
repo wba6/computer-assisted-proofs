@@ -5,7 +5,7 @@ geometry:
   - bottom=1in
   - left=1in
   - right=1in
-fontsize: 6pt
+fontsize: 4pt
 documentclass: article
 markdown: kramdown
 kramdown:
