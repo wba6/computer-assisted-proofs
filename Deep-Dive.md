@@ -38,17 +38,17 @@ header-includes:
 
 ---
 
-**Introduction**
+#### **Introduction**
 
 Mathematics is often seen as a way to describe the universe. At its core, mathematics uses proofs to show that ideas and theorems are true. So these ideas can be further iterated upon. Over time, the way we create these proofs has changed a lot. This paper looks into computer-assisted proofs, exploring how they started, why they're important, and the debates about whether they're as valid as traditional proofs.
 
-**Background on Mathematical Proofs**
+#### **Background on Mathematical Proofs**
 
 Mathematical proofs are important because they show that a statement or theorem is **always** true. Historically, mathematicians create proofs by carefully reasoning through each step, starting from basic already proven principles and building to their final conclusion. This process helps show that every part of the proof is logically sound.
 
 However, proofs do more than just confirm that something is true; they help others understand why it's true. By working through proofs, mathematicians can explore new ideas and deepen their knowledge of math. Many consider the beauty of traditional proofs to lie in their clarity and the fact that they reveal the underlying structure of the math they consist of.
 
-**Emergence of Computer-Assisted Proofs**
+#### **Emergence of Computer-Assisted Proofs**
 
 As computers grew more popular though the 1900s mathematicians began using them to help with proofs. Computer-assisted proofs use algorithms to handle complex calculation and check many different cases that would be too time-consuming for any human to do by hand. The combination of the human mind and machine efficiency allows mathematicians to tackle problems that were previously out of reach due their size and complexity.
 
@@ -56,7 +56,7 @@ The idea of using computers to help with proofs started around the mid-20th cent
 
 Computer-assisted proofs have led to some significant leaps in mathematics, solving many long-standing problems. These achievements show how powerful computational tools can be in advancing mathematical knowledge, challenging the traditional ways of creating proofs.
 
-**Understanding Computer-Assisted Proofs**
+#### **Understanding Computer-Assisted Proofs**
 
 A computer-assisted proof is a mathematical proof that relies on a computer program to verify certain sections of the argument. Where as traditional proofs are done entirely by hand using logical reasoning. Computer-assisted proofs use software to handle many complex calculations or check numerous cases that would be too time-consuming for humans to manage by themselves.
 
@@ -102,7 +102,7 @@ The key contributors in this proof were Kenneth Appel and Wolfgang Haken. whom w
 
 The role of computers in this proof came when Appel and Haken needed to verify the reducibility of all 1,936 cases. This marked one of the first significant uses of computers to solve a mathematical theorem, sparking debates about the validity and nature of proofs. Due to the heavy reliance on computers, this raised concerns about trustworthiness since no human could feasibly verify all the computational steps by hand. 
 
-#### The Kepler Conjecture
+#### **The Kepler Conjecture**
 
 **Overview**
 
@@ -127,19 +127,8 @@ To help verify every aspect of this proof, Hales launched the Flyspeck Project t
 - The proof became a benchmark for computer-assisted proofs for longstanding mathematical problems.
 - Many advancements were made in areas like automated theorem proving, discrete geometry and optimization, and mathematical philosophy.
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
-  - **C. The Classification of Finite Simple Groups**
-    - Explanation of the classification theorem.
-    - Extent of computer assistance in handling extensive case analyses.
-    - Significance in algebra.
-
-=======
->>>>>>> 724d38836a59e5f1fcdeca7fe3822ced63486988
->>>>>>> afb0cb36950825f0fdf3007576109dbf4e7bd4fa
-#### The Classification of Finite Simple Groups (CFSG) Theorem
+#### **The Classification of Finite Simple Groups (CFSG) Theorem**
 
 **Overview** 
 
